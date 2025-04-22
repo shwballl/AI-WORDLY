@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+dotenv
+python-dotenv
+pydantic
+colorlog
+azure-ai-inference
+azure-core
